@@ -1,0 +1,119 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+	box-sizing: border-box;
+
+}
+h1{
+	text-align: center;
+	color: #2b6777;
+	padding: 20px;
+	text-align: center;
+
+
+
+	
+
+
+}
+h2{
+	text-align: center;
+	color: #2b6777;
+	padding: 20px;
+	text-align: center;
+}
+nav{
+	background-color: whitesmoke;
+	text-align: center;
+	line-height: 5vh;
+	padding:0 5px;
+	font-variant-caps: all-petite-caps;
+	font-size: 1.1emssss;
+}
+
+
+}
+.header{
+	background-color: whitesmoke;
+	text-align: center;
+	line-height: 5vh;
+	padding:0 5px;
+	font-variant-caps: all-petite-caps;
+	font-size: 1.1emssss;
+}
+nav ul{
+ 	list-style-type: none;
+ 	
+ 	display: inline-block;
+
+ }
+nav a{
+	display: inline-block;
+	padding: 20px;
+	text-decoration: none;
+	color: #2b6777;
+	transition: 0.2s ease-in;
+	font-size: 18px;
+}
+nav ul a:hover{
+	background-color: #2b6777;
+	color: ghostwhite;
+}
+.row {
+	}
+
+
+body{
+	background-color: #B0E0E6;
+}
+.col{
+	flex-basis: 50%;
+	display: inline-block ;
+}
+		
+
+.row h1{
+	text-align: center;
+	
+	font-size: 90px;
+	display: ;
+}
+
+.card{
+	width: 340px;
+	height: 300px;
+	display: block ;
+	border-radius: 10px;
+	padding: 15px 25px;
+	box-sizing: border-box;
+	cursor: pointer;
+	margin: 10px 15px;
+	float: right;
+	display:inline-block;
+	background-position: center;
+	background-size: cover;
+	
+
+}
+
+
+
+
+
+.card1{
+	background-image: url(pan.jpg);
+}
+.card2{
+	background-image: url(pan1.jpg);
+}
+.card3{
+	background-image: url(pan3.jpg);
+}
+.card4{
+	background-image: url(pan4.jpg);
+}
+h5{
+	font-size: 30px;
+	color: #2b6777;
+}
